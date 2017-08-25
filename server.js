@@ -7,4 +7,4 @@ var server = http.createServer(function (req, res)
     res.write('{"title" : "Hello Darkness My Old Friend", "text", "I\'ve come to speak with you again"}');
 });
 
-server.listen(3000);
+server.listen(process.env.PORT || 3000);
