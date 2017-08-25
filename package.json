@@ -1,0 +1,20 @@
+{
+  "name": "myfirstwebserver",
+  "version": "1.0.0",
+  "description": "herpaderp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinyTimes/myfirstwebanpe.git"
+  },
+  "author": "Andreas Pedersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinyTimes/myfirstwebanpe/issues"
+  },
+  "homepage": "https://github.com/ShinyTimes/myfirstwebanpe#readme"
+}
