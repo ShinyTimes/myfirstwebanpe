@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/ShinyTimes/myfirstwebanpe/issues"
   },
-  "homepage": "https://github.com/ShinyTimes/myfirstwebanpe#readme"
+  "homepage": "https://github.com/ShinyTimes/myfirstwebanpe#readme",
+  "engines":{"node" : "8.4"}
 }
